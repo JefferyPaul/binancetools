@@ -1,0 +1,9 @@
+{
+  "email": "jeffery.pu@atsasset.com",
+  "pwd": "Aa85662562",
+  "host": "smtp.exmail.qq.com",
+  "port": "465",
+  "to": [
+    "jeffery.pu@atsasset.com"
+  ]
+}
